@@ -1,0 +1,28 @@
+{
+  "name": "get-started-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+  "js"
+  ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chaspy/get-started-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaspy/get-started-jest/issues"
+  },
+  "homepage": "https://github.com/chaspy/get-started-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
